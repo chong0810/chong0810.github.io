@@ -1,0 +1,133 @@
+{
+  "main": {
+    "name": "ChangYeon (Daniel) Hong ",
+    "occupation": "Full Stack Web Developer",
+    "description": "I have strong Information Technology background and very outgoing personality",
+    "image": "me.jpg",
+    "bio": "Hi! My name is Daniel, I'm an enthusiastic Full Stack Engineer seeking a position in an innovative company that desires commitment. Demonstrated research, time management, and problem-solving skills. Highly organized with the ability to manage multiple projects and consistently meet deadlines. A very adaptive quick learner and have great work ethics to ensure efficiency in performing assigned tasks. ",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "hongchangyeon@gmail.com",
+    "phone": "+1 (737) 218-3825",
+    "address": {
+      "street": "10500 Lakeline Mall Drive Apt 2602",
+      "city": "Austin",
+      "state": "Texas",
+      "zip": "78717"
+    },
+    
+    "resumedownload": "https://drive.google.com/file/d/1j7spfK9Y6zG4dGTbi3ClG_bHXyK5mvbe/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/hongchangyeon",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/changyeonhong/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/perfect_clutch_/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/chong0810",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "University of Texas at Austin",
+        "degree": "Full Stack Web Development Program",
+        "graduated": "Octber 2020"
+        
+      },
+      {
+        "school": "University of Texas at Austin",
+        "degree": " Bachelor of Science Computer Science",
+        "graduated": "Expected to graduate in 2023"
+        
+      },
+      {
+        "school": "Austin Community College",
+        "degree": " Associate in Computer Science",
+        "graduated": "Expected to graduate in 2021"
+        
+      }
+
+    ],
+    "work": [
+      {
+        "company": "Evolve IP",
+        "title": "Technical Analyst",
+        "years": "December, 2019 - August, 2020",
+        "description": " MSP enviorment with vmware/vcloud administration"
+      },
+      {
+        "company": "Samsung SDSA",
+        "title": "IT Helpdesk Technician",
+        "years": "September 2018 - October 2019",
+        "description": "Onsite helpdesk technical role to assist engineers"
+      }
+    ],
+  
+    "skills": [
+      {
+        "name": "React.js, Express, SQL, NoSQL, MYSQL, MongoDB, Node.js, Bootstrap, API, Javascript, HTML5, CSS, Git"
+        
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "FoodTrucksATX",
+        "category": "Food truck finder web application",
+        "image": "FoodTruck.PNG",
+        "url": "https://destinatx.github.io/Project-1/"
+      },
+      {
+        "title": "Employee Directory",
+        "category": "Employee Directory built with ReactJS",
+        "image": "EmployeeDirectory.PNG",
+        "url": "https://chong0810-employeedirectory.herokuapp.com/"
+      },
+      {
+        "title": "README.md Generator",
+        "category": "README.md generator for developers",
+        "image": "ReadMeGenerator.PNG",
+        "url": "https://www.youtube.com/watch?v=lURR0SW71YY"
+      },
+      {
+        "title": "Note Taker",
+        "category": "Note taking web application with MongoDB",
+        "image": "NoteTaker.PNG",
+        "url": "https://note-taker-chong0810.herokuapp.com/"
+      },
+      {
+        "title": "Random Password Generator",
+        "category": "Random Password Generator web application to help user create a new password",
+        "image": "RandomPassword.PNG",
+        "url": "https://chong0810.github.io/RandomPasswordGenerator/"
+      }
+      
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Working on projects and pair coding with Daniel is always productive and a pleasure. His google-fu skills are impressive and commitment to solving issues tireless.  Any company will find he is a great team player, easy to work with and an accomplished developer. It is obvious he has a passion for development.",
+        "user": "Diane Candler"
+      },
+      {
+        "text": "I have had the pleasure of working with Daniel for the past six months, collaborating on many projects. Daniel's ability to handle multiple projects is unlike any that I have ever seen before and it’s made a dramatic difference in the productivity level of our team. The value and input that Daniel has given helped motivate our team within our projects and development work, as a team member or leader, Daniel would be an asset to any team",
+        "user": "Conner McBride"
+      }
+    ]
+  }
+}
