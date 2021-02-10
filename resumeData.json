@@ -103,15 +103,6 @@
         "url": "https://note-taker-chong0810.herokuapp.com/",
         "skill": "JavaScript, HTML, CSS, Heroku, Git, Node.js Express",
         "github": "https://github.com/chong0810/NoteTaker"
-      },
-      {
-        "title": "Random Password Generator",
-        "category": "Random Password Generator web application to help user create a new password",
-        "image": "RandomPassword.PNG",
-        "url": "https://chong0810.github.io/RandomPasswordGenerator/",
-        "skill": "JavaScript, HTML, CSS, Git",
-        "github": "https://github.com/chong0810/RandomPasswordGenerator"
-
       }
       
     ]
