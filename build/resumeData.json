@@ -4,23 +4,33 @@
     "occupation": "Full Stack Web Developer",
     "description": "I have strong Information Technology background and very outgoing personality",
     "image": "me.jpg",
-    "bio": "Hi! My name is Daniel. I'm an enthusiastic Full Stack Engineer seeking a position in an innovative company that desires commitment. Demonstrated research, time management, and problem-solving skills. Highly organized with the ability to manage multiple projects and consistently meet deadlines. A very adaptive quick learner and have great work ethics to ensure efficiency in performing assigned tasks. ",
+    "bio": "Hi! My name is Daniel, I'm an enthusiastic Full Stack Engineer seeking a position in an innovative company that desires commitment. Demonstrated research, time management, and problem-solving skills. Highly organized with the ability to manage multiple projects and consistently meet deadlines. A very adaptive quick learner and have great work ethics to ensure efficiency in performing assigned tasks. ",
     "contactmessage": "Get in touch with me to receive further details.",
     "email": "hongchangyeon@gmail.com",
     "phone": "+1 (737) 218-3825",
     "address": {
+      "street": "10500 Lakeline Mall Drive Apt 2602",
       "city": "Austin",
-      "state": "Texas"
-    
+      "state": "Texas",
+      "zip": "78717"
     },
     
-    "resumedownload": "https://drive.google.com/file/d/16cgFEZh4eGGzRFVKGQe9-1Ym7PSgRC1g/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1j7spfK9Y6zG4dGTbi3ClG_bHXyK5mvbe/view?usp=sharing",
     "social": [
-      
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/hongchangyeon",
+        "className": "fa fa-facebook"
+      },
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/changyeonhong/",
         "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/perfect_clutch_/",
+        "className": "fa fa-instagram"
       },
       {
         "name": "github",
@@ -35,6 +45,12 @@
         "school": "University of Texas at Austin",
         "degree": "Full Stack Web Development Program",
         "graduated": "Octber 2020"
+        
+      },
+      {
+        "school": "University of Texas at Austin",
+        "degree": " Bachelor of Science Computer Science",
+        "graduated": "Expected to graduate in 2023"
         
       },
       {
@@ -69,49 +85,35 @@
   },
   "portfolio": {
     "projects": [
-      
-      {
-        "title": "Tinder-Clone",
-        "category": "Random Password Generator web application to help user create a new password",
-        "image": "RandomPassword.PNG",
-        "url": "https://chong0810.github.io/RandomPasswordGenerator/",
-        "skill": "MongoDB,Mongoose,Express,React.js,Node.js,Heroku,Material-ui,Javascript,HTML,CSS,GitHub,Postman",
-        "github": "https://github.com/SocialMediaCloneware/tinder-clone"
-
-      },
       {
         "title": "FoodTrucksATX",
         "category": "Food truck finder web application",
         "image": "FoodTruck.PNG",
-        "url": "https://destinatx.github.io/Project-1/",
-        "skill": "Javscript,HTML,CSS,Google Cloud, Bootstrap, Git, Postman",
-        "github": ""
+        "url": "https://destinatx.github.io/Project-1/"
       },
-      
+      {
+        "title": "Employee Directory",
+        "category": "Employee Directory built with ReactJS",
+        "image": "EmployeeDirectory.PNG",
+        "url": "https://chong0810-employeedirectory.herokuapp.com/"
+      },
       {
         "title": "README.md Generator",
         "category": "README.md generator for developers",
         "image": "ReadMeGenerator.PNG",
-        "url": "https://www.youtube.com/watch?v=lURR0SW71YY",
-        "skill": "",
-        "github": ""
+        "url": "https://www.youtube.com/watch?v=lURR0SW71YY"
       },
       {
         "title": "Note Taker",
         "category": "Note taking web application with MongoDB",
         "image": "NoteTaker.PNG",
-        "url": "https://note-taker-chong0810.herokuapp.com/",
-        "skill": "",
-        "github": ""
+        "url": "https://note-taker-chong0810.herokuapp.com/"
       },
       {
         "title": "Random Password Generator",
         "category": "Random Password Generator web application to help user create a new password",
         "image": "RandomPassword.PNG",
-        "url": "https://chong0810.github.io/RandomPasswordGenerator/",
-        "skill": "",
-        "github": ""
-
+        "url": "https://chong0810.github.io/RandomPasswordGenerator/"
       }
       
     ]
