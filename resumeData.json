@@ -73,8 +73,8 @@
       {
         "title": "Tinder-Clone",
         "category": "Random Password Generator web application to help user create a new password",
-        "image": "RandomPassword.PNG",
-        "url": "https://chong0810.github.io/RandomPasswordGenerator/",
+        "image": "Tinder-clone-Homepage.PNG",
+        "url": "https://socialmediacloneware.github.io/tinder-clone/",
         "skill": "MongoDB,Mongoose,Express,React.js,Node.js,Heroku,Material-ui,Javascript,HTML,CSS,GitHub,Postman",
         "github": "https://github.com/SocialMediaCloneware/tinder-clone"
 
@@ -84,8 +84,8 @@
         "category": "Food truck finder web application",
         "image": "FoodTruck.PNG",
         "url": "https://destinatx.github.io/Project-1/",
-        "skill": "Javscript,HTML,CSS,Google Cloud, Bootstrap, Git, Postman",
-        "github": ""
+        "skill": "JavaScript,HTML,CSS,Google Cloud, Bootstrap, Git, Postman",
+        "github": "https://github.com/DestinATX/Project-1"
       },
       
       {
@@ -93,24 +93,24 @@
         "category": "README.md generator for developers",
         "image": "ReadMeGenerator.PNG",
         "url": "https://www.youtube.com/watch?v=lURR0SW71YY",
-        "skill": "",
-        "github": ""
+        "skill": "JavaScript, Node.js, Express, Git",
+        "github": "https://github.com/chong0810/ReadMeGenerator"
       },
       {
         "title": "Note Taker",
         "category": "Note taking web application with MongoDB",
         "image": "NoteTaker.PNG",
         "url": "https://note-taker-chong0810.herokuapp.com/",
-        "skill": "",
-        "github": ""
+        "skill": "JavaScript, HTML, CSS, Heroku, Git, Node.js Express",
+        "github": "https://github.com/chong0810/NoteTaker"
       },
       {
         "title": "Random Password Generator",
         "category": "Random Password Generator web application to help user create a new password",
         "image": "RandomPassword.PNG",
         "url": "https://chong0810.github.io/RandomPasswordGenerator/",
-        "skill": "",
-        "github": ""
+        "skill": "JavaScript, HTML, CSS, Git",
+        "github": "https://github.com/chong0810/RandomPasswordGenerator"
 
       }
       
